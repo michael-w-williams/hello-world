@@ -1,2 +1,7 @@
 # hello-world
-Intro repository for MikeW
+
+Hello World!
+
+I am MikeW. Jack of all trades and master of none.
+
+Mike W.
