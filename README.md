@@ -2,4 +2,4 @@
 
 ## Hello World!
 
-A new repos from Mike W.
+I am MikeW. Jack of all trades and master of none.
