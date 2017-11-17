@@ -6,4 +6,9 @@ A new repos from Mike W.
 
 ## New Section
 
-Here is some new text
+Here is some new text. 
+
+## Emoji Test
+
+* :star: Starred Item
+
